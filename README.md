@@ -8,6 +8,10 @@ It is an simple TODO-List app that will allow users to add and delete items to t
 
 2. Open index.html file in your browser via http server.
 
+## Roadmap of future improvements:
+
+1. Adding check boxes and close button.
+
 ## License information:
 
 MIT License
