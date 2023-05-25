@@ -2,6 +2,7 @@
 
 It is an simple TODO-List app that will allow users to add and delete items to the styled ToDo list with React.
 
+## [Demo](https://nandhinikarvendhan.github.io/TODO-List/)
 ## How to run
 
 1. Download or clone this repository.
